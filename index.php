@@ -7,7 +7,7 @@
 <body>
 <form action="Connect.php" method="POST">
 	Username<input type="text" name="username" label="User" required="true"><br>
-	Password<input type="password" name="password" lable="Pass" required="true"><br>
+	Password<input type="password" name="pass" lable="Pass" required="true"><br>
 	<input type="Submit" name="" id="" value="Login">
 </form>
 </body>
